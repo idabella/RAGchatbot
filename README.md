@@ -118,7 +118,7 @@ An enterprise-grade **Retrieval-Augmented Generation (RAG)** chatbot that combin
 
 
 <div align="center">
-  <img src="images/rag_shema.png" alt="RAG Architecture" width="700">
+  <img src="images/rag_shema.png" alt="RAG Architecture" width="600">
 </div>
 
 
