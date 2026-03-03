@@ -1,6 +1,5 @@
 <div align="center"
 # 🤖 RAG Intelligent Chatbot
-
 </div>
 
 <div align="center">
