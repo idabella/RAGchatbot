@@ -1,8 +1,13 @@
-<div align="center">
+<div align="center"
 # 🤖 RAG Intelligent Chatbot
+
+
 </div>
+
 <div align="center">
+
 ![RAG Chatbot Banner](images/homepage.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![React 18](https://img.shields.io/badge/react-18.2+-61DAFB.svg)](https://reactjs.org/)
