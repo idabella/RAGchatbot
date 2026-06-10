@@ -1,5 +1,5 @@
 <div align="center"
-# 🤖 RAG Intelligent Chatbot
+#  RAG Intelligent Chatbot
 
 
 </div>
@@ -16,7 +16,7 @@
 
 **Transform your documents into an intelligent conversational AI assistant**
 
-[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [💡 Features](#-features) • [🎯 Demo](https://demo.rag-chatbot.com)
+[ Quick Start](#-quick-start) • [ Documentation](#-documentation) • [💡 Features](#-features) • [ Demo](https://demo.rag-chatbot.com)
 
 </div>
 
@@ -35,17 +35,17 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 An enterprise-grade **Retrieval-Augmented Generation (RAG)** chatbot that combines the power of large language models with your custom knowledge base. Upload your documents, and let AI provide accurate, contextual responses with source attribution.
 
 ### Why RAG Chatbot?
 
-✅ **Accurate & Contextual** - Grounds responses in your actual documents  
-✅ **Source Attribution** - Always cites where information comes from  
-✅ **Multi-Format Support** - PDF, DOCX, TXT, and more  
-✅ **Enterprise Ready** - Scalable, secure, and production-tested  
-✅ **Easy to Deploy** - Docker-based deployment in minutes  
+ **Accurate & Contextual** - Grounds responses in your actual documents  
+ **Source Attribution** - Always cites where information comes from  
+ **Multi-Format Support** - PDF, DOCX, TXT, and more  
+ **Enterprise Ready** - Scalable, secure, and production-tested  
+ **Easy to Deploy** - Docker-based deployment in minutes  
 
 ---
 
@@ -55,7 +55,7 @@ An enterprise-grade **Retrieval-Augmented Generation (RAG)** chatbot that combin
 <tr>
 <td width="50%">
 
-### 🧠 **Core RAG Capabilities**
+###  **Core RAG Capabilities**
 - Hybrid semantic + keyword search
 - Context-aware responses
 - Multi-document reasoning
@@ -65,7 +65,7 @@ An enterprise-grade **Retrieval-Augmented Generation (RAG)** chatbot that combin
 </td>
 <td width="50%">
 
-### 🎨 **User Experience**
+###  **User Experience**
 - Modern, responsive UI
 - Real-time chat interface
 - Document management dashboard
@@ -77,7 +77,7 @@ An enterprise-grade **Retrieval-Augmented Generation (RAG)** chatbot that combin
 <tr>
 <td width="50%">
 
-### 🔐 **Security & Admin**
+###  **Security & Admin**
 - JWT authentication
 - Role-based access control
 - User management dashboard
@@ -87,7 +87,7 @@ An enterprise-grade **Retrieval-Augmented Generation (RAG)** chatbot that combin
 </td>
 <td width="50%">
 
-### ⚡ **Performance**
+###  **Performance**
 - Sub-5s query responses
 - Concurrent user support (50+)
 - Intelligent caching
@@ -120,7 +120,7 @@ An enterprise-grade **Retrieval-Augmented Generation (RAG)** chatbot that combin
 </div>
 
 
-#### 📥 **Document Ingestion Flow**
+####  **Document Ingestion Flow**
 
 ```mermaid
 graph LR
@@ -131,7 +131,7 @@ graph LR
     E --> F[Index for Search]
 ```
 
-#### 🔍 **Query & Response Flow**
+####  **Query & Response Flow**
 
 ```mermaid
 graph LR
@@ -155,7 +155,7 @@ graph LR
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -164,7 +164,7 @@ graph LR
 - Node.js 18+ (for local dev)
 - OpenAI API Key or LLAMA API Key
 
-### 🐳 Docker Setup (Recommended)
+###  Docker Setup (Recommended)
 
 **Get up and running in 3 steps:**
 
@@ -182,10 +182,10 @@ docker-compose up -d
 ```
 
 **Access the application:**
-- 🌐 **Frontend**: http://localhost:3000
-- 🔧 **Backend API**: http://localhost:8000
-- 📚 **API Docs**: http://localhost:8000/docs
-- 👨‍💼 **Admin Panel**: http://localhost:3000/admin
+-  **Frontend**: http://localhost:3000
+-  **Backend API**: http://localhost:8000
+-  **API Docs**: http://localhost:8000/docs
+-  **Admin Panel**: http://localhost:3000/admin
 
 ### 💻 Local Development Setup
 
